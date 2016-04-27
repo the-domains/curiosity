@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Are you a curious person? '
-datePublished: '2016-04-27T03:38:29.560Z'
-dateModified: '2016-04-27T03:38:27.026Z'
+datePublished: '2016-04-27T03:39:29.793Z'
+dateModified: '2016-04-27T03:39:29.362Z'
 title: ''
 author: []
 authors: []
@@ -24,4 +24,6 @@ _type: Article
 ---
 Are you a curious person? 
 
-Then you'll like this: http://areyoucuriousenough.com
+Then you'll like this:
+
+http://areyoucuriousenough.com
