@@ -4,8 +4,15 @@
         <description><![CDATA[curiosity]]></description>
         <link>https://thegrid.ai/curiosity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 03:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 05:43:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/curiosity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>If you've stumbled on this site... lucky you! </p>]]></description>
+            <link>https://thegrid.ai/curiosity/if-youve-stumbled-on-this-site-lucky-you/index.html</link>
+            <guid isPermaLink="false">9dc12d56-f602-4e54-a615-7597beaf30a0</guid>
+            <pubDate>Wed, 27 Apr 2016 05:43:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Are you a curious person? </p>]]></description>
